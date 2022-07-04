@@ -1,0 +1,34 @@
+PyShell:
+Error:
+false
+1
+true
+PyShell - Better python shell
+
+
+
+
+
+------INFO
+
+0: Prompt message (Default is PyShell: ) - Customizable
+1: Error message (Default is Error: ) - Customizable
+2: New line after command? (Default is false) - "true" or "false"
+3: If 2 is true, then how much line breaks after each command? (Default is 1) - Any number
+4: Print message when shell started? (Default is true) - "true" or "false"
+5: Welcome message text (Appears only if 4 is true) (default is PyShell - Better python shell) - Any text in one line. use "\n" to break a line.
+
+------Usable formatting
+
+{username} - The username of the computer user ( os.getlogin() ).
+{computer} - The computer name
+{machineos} - The user's operating system name
+{osversion} - The version of the user's operating system
+{timeandsec} - Time with seconds
+{timenosecs} - Time without seconds
+
+You can add more by playing with the source code (.py file is in the github repository)
+
+-- You can use these anywhere in the text settings at the start of this file. Feel free!
+
+--- These info lines ARE being readed but not used. You can put anything if its not being used in any part of the code.
