@@ -2,6 +2,7 @@
 BetterPyShell - The Python shell, but more customizable and enhanced.
 
 (I only have the Linux pre-compiled binary, compile it yourself using Pyinstaller if you are on Windows / Mac or just use it directly from the .py file)
+(This repository is not a fork or not based/connected to any other repositories with the PyShell name)
 
 ### What is BetterPyShell?
 
